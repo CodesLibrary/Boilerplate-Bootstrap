@@ -6,7 +6,7 @@ var concatCss = require('gulp-concat-css');
 const imagemin = require('gulp-imagemin');
 const concat = require('gulp-concat');
 const uglify = require('gulp-uglify');
-const rename = require("gulp-rename");
+
 
 gulp.task('serve', ['sass', 'scripts'], function() {
 
@@ -27,11 +27,6 @@ gulp.task('sass', function() {
       .pipe(gulp.dest('app/dist/css'))
       .pipe(browserSync.stream());
 });
- 
-
-
-
-
 
 gulp.task('image', () =>
     gulp.src('app/src/images/*')
@@ -39,10 +34,6 @@ gulp.task('image', () =>
         .pipe(gulp.dest('app/dist/images'))
         
 );
-
-
- 
-
 
 gulp.task('scripts', function() {
   return gulp.src('app/src/js/*.js')
