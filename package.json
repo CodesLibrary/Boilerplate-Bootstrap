@@ -1,7 +1,7 @@
 {
-  "name": "codelab",
-  "version": "1.0.0",
-  "description": "",
+  "name": "boilerplate-bootstrap",
+  "version": "2.0.0",
+  "description": "Boilerplate-Bootstrap with Gulp",
   "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,5 +17,14 @@
     "gulp-imagemin": "^4.1.0",
     "gulp-sass": "^4.0.1",
     "gulp-uglify": "^3.0.1"
-  }
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodesLibrary/Boilerplate-Bootstrap.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CodesLibrary/Boilerplate-Bootstrap/issues"
+  },
+  "homepage": "https://github.com/CodesLibrary/Boilerplate-Bootstrap#readme"
 }
