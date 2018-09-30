@@ -5,7 +5,7 @@
     - <code>npm install</code>
     - <code>gulp</code>
   
-### Install Visual Studio Code.js <a href="https://code.visualstudio.com/download">Download</a>
+### Install Visual Studio Code <a href="https://code.visualstudio.com/download">Download</a>
 -   #### Code Plugins
     - <a href="https://marketplace.visualstudio.com/items?itemName=Mikael.Angular-BeastCode">Angular 6 Snippets</a><br /> 
     - <a href="https://marketplace.visualstudio.com/items?itemName=thekalinga.bootstrap4-vscode">Bootstrap 4 Snippet</a><br /> 
