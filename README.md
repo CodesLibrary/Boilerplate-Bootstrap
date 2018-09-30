@@ -1,4 +1,4 @@
-# Boilerplate-Bootstrap
+# Boilerplate-Bootstrap with Gulp
 
 ### Install Node.js <a href="https://nodejs.org/en/download/">Download</a>
 ### CLI Commands into the project directory
