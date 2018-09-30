@@ -8,17 +8,17 @@
 ### Install Visual Studio Code <a href="https://code.visualstudio.com/download">Download</a>
 -   #### Code Plugins
     - <a href="https://marketplace.visualstudio.com/items?itemName=Mikael.Angular-BeastCode">Angular 6 Snippets</a><br /> 
-    - <a href="https://marketplace.visualstudio.com/items?itemName=thekalinga.bootstrap4-vscode">Bootstrap 4 Snippet <img src="https://avatars0.githubusercontent.com/u/42347230?s=460&v=4" width="15px" height="10px" ></a><br /> 
+    - <a href="https://marketplace.visualstudio.com/items?itemName=thekalinga.bootstrap4-vscode">Bootstrap 4 Snippet <img src="https://www.iconsdb.com/icons/preview/red/square-ios-app-xxl.png" width="15px" height="10px" ></a><br /> 
     - <a href="https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek">CSS Peek</a><br /> 
     - <a href="https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome"> Debugger Chrome</a><br /> 
     - <a href="https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets">HTML 5 Snippets</a><br /> 
-    - <a href="https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion">Class Completion <img src="https://avatars0.githubusercontent.com/u/42347230?s=460&v=4" width="15px" height="10px" ></a><br /> 
+    - <a href="https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion">Class Completion <img src="https://www.iconsdb.com/icons/preview/red/square-ios-app-xxl.png" width="15px" height="10px" ></a><br /> 
     - <a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer">Live Server</a><br /> 
-    - <a href="https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense">Path Finder <img src="https://avatars0.githubusercontent.com/u/42347230?s=460&v=4" width="15px" height="10px" ></a><br /> 
+    - <a href="https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense">Path Finder <img src="https://www.iconsdb.com/icons/preview/red/square-ios-app-xxl.png" width="15px" height="10px" ></a><br /> 
     - <a href="https://marketplace.visualstudio.com/items?itemName=formulahendry.terminal">Terminal</a><br />
     - <a href="https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag">Auto Rename Tag</a><br />
     - <a href="https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify">Beautify</a><br />
     - <a href="https://marketplace.visualstudio.com/items?itemName=file-icons.file-icons">File Icons</a><br />
-    - <a href="https://marketplace.visualstudio.com/items?itemName=donjayamanne.jquerysnippets">Jquery Snippets <img src="https://avatars0.githubusercontent.com/u/42347230?s=460&v=4" width="15px" height="10px" ></a><br />
+    - <a href="https://marketplace.visualstudio.com/items?itemName=donjayamanne.jquerysnippets">Jquery Snippets <img src="https://www.iconsdb.com/icons/preview/red/square-ios-app-xxl.png" width="15px" height="10px" ></a><br />
     - <a href="https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-scss">IntelliSense for SCSS</a><br />
     
